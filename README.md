@@ -163,6 +163,10 @@ Create a `.eslintrc.json` file in the project root and enter the below contents:
 }
 ```
 
+###Make Default 'prettier' as formatter in your VSCODE :
+Select VS Code -> View -> Command Palette, and type: Format Document With
+Then Configure Default Formatter... and then choose Prettier - Code formatter.
+
 <!-- CONTACT -->
 
 ## Contact
